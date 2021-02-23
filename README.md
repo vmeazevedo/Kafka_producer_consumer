@@ -8,10 +8,12 @@ Código para envio e consumo de String por Kafka através de Procuder/Consumer.
 
 ## Preparando o ambiente
 - Após as instalações vá até a pasta onde o kafka está instalado e crie uma pasta "data" nele. Dentro dessa pasta crie duas pastas:
+
 kafka
 zookeeper
 
 - Retorne a pasta do kafka e abra a pasta "config", nessa pasta abra os arquivos:
+
 zookeeper.properties
 server.properties
 
